@@ -1,3 +1,5 @@
-### Anna Martinez Casals
+### Anna Martinez Casals   anna.martinez@scilifelab.se
 
-*Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error quod sed cumque*, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure perspiciatis mollitia recusandae vero vel quam!Lorem ipsum dolor sit amet, consectetur adipisicing elit. **Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae?**
+Anna grew up in Barcelona (Spain) where she earned her degree in Biology and her Ph.D. in proteomics´ field applied to neurodegenerative diseases. After that, she moved to Stockholm and worked in different labs till 2017 where she joined Cell Profiling group. Currently, Anna is involved in tissue projects, mainly with multiplexed proteomics technologies. 
+
+*Without change, something sleeps inside us, and seldom awakens. The sleeper must awaken. - Dune (Frank Herbert)*
