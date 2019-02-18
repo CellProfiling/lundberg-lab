@@ -1,3 +1,7 @@
 ### Charlotte Stadler
+Charlotte.stadler@scilifelab.se
+CellPro.facility@scilifelab.se
 
-*Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error quod sed cumque*, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure perspiciatis mollitia recusandae vero vel quam!Lorem ipsum dolor sit amet, consectetur adipisicing elit. **Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae?**
+Charlotte started working with Emma Lundberg already in 2008 as the first PhD student in the lab. As a PhD student she developed methods for high throughout sub cellular profiling using immunofluorescence which are today used in the Cell Atlas. Since 2017 she is leading the national Cell profiling Facility, that performs custom made immunofluorescence experiments to academia and industry. 
+
+
