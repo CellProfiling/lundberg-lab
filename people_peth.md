@@ -1,3 +1,6 @@
 ### Peter Thul
+peter.thul@scilifelab.se 
 
-*Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error quod sed cumque*, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure perspiciatis mollitia recusandae vero vel quam!Lorem ipsum dolor sit amet, consectetur adipisicing elit. **Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae?**
+Peter grew up in Cologne, Germany, and obtained his Dr. rer. nat. in 2014 at the University Düsseldorf and at the Max Planck Institute for Biophysical Chemistry Göttingen, where he studied protein localization to lipid droplets in Drosophila. In the same year, he joined the Cell Profiling group as postdoc and became the group manager of the Cell Atlas in 2017.
+
+*Et hätt noch immer jot jejange.* – saying in Cologne

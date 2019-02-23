@@ -1,3 +1,6 @@
 ### Jenny Fall
+jenny.fall@scilifelab.se 
 
-*Lorem extra ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error quod sed cumque*, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure perspiciatis mollitia recusandae vero vel quam!Lorem ipsum dolor sit amet, consectetur adipisicing elit. **Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae?**
+Jenny grew up in Norrköping and moved to Stockholm in 1995. She has quite a different background compared to other groupmembers, as she has a musical career beside the work in Lundberg lab. Jenny is working as a lab technician and does most of the cell culturing and the manual aquisition on the confocal microscopes.
+
+*Take care of all your memories, cause you cannot relive them.* - Bob Dylan

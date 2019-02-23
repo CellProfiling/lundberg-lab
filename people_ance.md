@@ -1,3 +1,6 @@
 ### Anthony Cesnik
+anthony.cesnik@stanford.edu
 
-*Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error quod sed cumque*, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure perspiciatis mollitia recusandae vero vel quam!Lorem ipsum dolor sit amet, consectetur adipisicing elit. **Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae?**
+Anthony earned his Ph.D. in chemistry from the University of Wisconsin-Madison in 2018 for building computational tools to identify proteoforms in complex systems. He is now analyzing heterogeneity of protein expression within human tissues and integrating diverse data types to better understand those observations. He joined the Cell Profiling group at Stanford in 2019, and he will continue his research in Stockholm the following year.
+
+
