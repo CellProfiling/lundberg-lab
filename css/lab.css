@@ -27,6 +27,10 @@
 
 /*Website specific styles*/
 
+p {
+   margin-bottom:0;
+}
+
 hr {
    border: none;
    height: 1px;
