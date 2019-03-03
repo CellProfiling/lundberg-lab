@@ -1,3 +1,6 @@
 ### Diana Mahdessian
+diana.mahdessian@scilifelab.se
 
-*Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error quod sed cumque*, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure perspiciatis mollitia recusandae vero vel quam!Lorem ipsum dolor sit amet, consectetur adipisicing elit. **Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae?**
+Diana holds a Master’s degree in Biochemistry from the Lebanese University and joined the Lundberg Lab in 2011 preliminarily as a research engineer and later as a PhD candidate. Her main research project focuses on characterizing heterogeneity of protein expression on a single cell level and focuses on the variations correlated to cell cycle phase transitions in human cells.
+
+*We have to do the best we are capable of. This is our sacred human responsibility.* - Albert Einstein

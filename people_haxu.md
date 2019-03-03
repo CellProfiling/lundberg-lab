@@ -1,3 +1,6 @@
 ### Hao Xu
+hao.xu@scilifelab.se 
 
-*Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error quod sed cumque*, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure perspiciatis mollitia recusandae vero vel quam!Lorem ipsum dolor sit amet, consectetur adipisicing elit. **Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae?**
+Hao Xu is from China, educated in applied physics and micro-/solid-state electronics respectively for his B.Sc and Master study. He then moved to Sweden for his doctoral study and obtained PhD degree in biological physics from KTH in Sep 2016, specializing in quantum dots' application in bioimaging. From Sep 2017, Hao started to work as a researcher in Emma Lundberg's group. He is now working at automated microscopy, computational image analysis.
+
+
