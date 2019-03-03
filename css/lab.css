@@ -86,6 +86,10 @@ hr {
    text-align: center;
 }
 
+.people_margin > h3 {
+   margin-top: 0px;
+}
+
 .title {
    margin-top: 10px;
    text-align: center;
