@@ -27,6 +27,11 @@
 
 /*Website specific styles*/
 
+a {
+  color: #000000;
+  text-decoration: underline;
+}
+
 p {
    margin-bottom:0;
 }
