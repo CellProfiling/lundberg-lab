@@ -32,6 +32,10 @@ a {
   text-decoration: underline;
 }
 
+.nav-link a {
+  text-decoration: none;
+}
+
 p {
    margin-bottom:0;
 }
