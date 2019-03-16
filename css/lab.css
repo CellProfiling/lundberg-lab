@@ -121,4 +121,9 @@ hr {
    border-bottom: 1px solid #eaecef;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
