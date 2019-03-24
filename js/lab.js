@@ -13,8 +13,8 @@ function convertContent() {
 }
 
 $(document).keypress(function(e) {
+   alert(e.keyCode)
    if ( e.keyCode == 115 ) {
-      alert("fun");
       var KICKASSVERSION='2.0';
       var s = document.createElement('script');
       s.type = 'text/javascript';
