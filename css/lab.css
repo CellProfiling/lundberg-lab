@@ -123,12 +123,6 @@ hr {
 
 .image-center {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 670px;
-}
-
-.image-center2 {
   max-width: 670px;
 }
 
