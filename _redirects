@@ -1,0 +1,7 @@
+# These rules will change if you change your site's custom domains or HTTPS settings
+
+# Redirect domain aliases to primary domain
+https://cellprofiling.com/* https://cellprofiling.org/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://elastic-boyd-26b21f.netlify.com/* https://cellprofiling.org/:splat 301!
