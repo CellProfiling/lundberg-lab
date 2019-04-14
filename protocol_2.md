@@ -1,7 +1,7 @@
 [**Tecan - liquid handling platform**](./tecanSOP.pdf)
 ![image](./images/tecan.png)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.
+High-throughput profiling of protein targets are performed using a liquid handling plarform that allows optimized pipetting parameters for a broad range of liquid types and volumes, with fast liquid level detection, liquid availability check and preferential non-contact dispensing.
 
 
 
