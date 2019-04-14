@@ -126,3 +126,8 @@ hr {
   max-width: 670px;
 }
 
+.image-center-original {
+  display: block;
+  width: 100%;
+  margin: auto;
+}
