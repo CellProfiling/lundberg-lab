@@ -13,8 +13,7 @@ function convertContent() {
 }
 
 $(document).keypress(function(e) {
-   alert(e.keyCode);
-   if ( e.keyCode == 127 ) {
+   if ( e.keyCode == 167 || e.keyCode == 127 ) {
       var KICKASSVERSION='2.0';
       var s = document.createElement('script');
       s.type = 'text/javascript';
