@@ -131,3 +131,8 @@ hr {
   width: 100%;
   margin: auto;
 }
+
+.image-center2 {
+  display: block;
+  max-width: 300px;
+}
