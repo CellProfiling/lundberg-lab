@@ -2,7 +2,7 @@ You have reached Cell Profiling website!  Cell profiling is responsible for the 
 
 But the group is much more indeed! There is a research group focused on spatial proteomics and cell biology, always looking for new opportunities to engage a wider community in our work.
 
-An there is even more! Cell Profiling facilties enables researchers to access the resources and expertise from the Human Protein Atlas.
+And there is even more! Cell Profiling facilties enables researchers to access the resources and expertise from the Human Protein Atlas.
 
 
 
