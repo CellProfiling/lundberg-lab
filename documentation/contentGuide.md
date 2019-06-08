@@ -4,26 +4,27 @@ In this guide it is explained step by step how to perform the most common additi
 
 ## Important! Get the latest website files
 
-**To do later** *Explain how to get the latest version of the files from GitHub or whatever decided repository*
+**Contact Martin or a member of Tech to help with this section** *Explain how to get the latest version of the files from GitHub*
 
-### Adding/editing a person in People > Direct contact
+### Adding/editing a person in People > Members
 
-1. Create (or edit the existing file, if you want to modify) a text file with name **people_[your unique name].md** in the main folder (you have several examples already there). Although not needed, is better if you stick to the current naming convention of using as **[your unique name]** the first 2 letters of the first name followed by the first 2 letters of the surname of the person which you are adding the info of. So, for example, the file with Anna Martinez info is **people_anma.md**
+1. Create (or edit the existing file, if you want to modify) a text file with name **people_[your unique name].md** in the main folder (you have several examples already there). Although not needed,it is better if you stick to the current naming convention of using as **[your unique name]** the first 2 letters of the first name followed by the first 2 letters of the surname of the person which you are adding the info of. So, for example, the file with Anna Martinez info is **people_anma.md**
 
 2. Write the content of the file in markdown notation (you have several examples already there, so a little copy&paste will work wonders!)
 
-3. Add the person image to the **/images** folder of the website files. Also, try to use the same resolution as the rest of the personal images!
+3. Add the person image to the **/images** folder of the website files. Also, try to use the same resolution as the rest of the other personal images.
 
-4. Edit the HTML file named **people_directContact.html**. Locate one of the blocks of code mark between the two comments of `<!-- base person info -->...<!-- end base person info -->`, copy it (with the two comments too!), and paste it in the logical place you want the person to be in the web page (usually right after the last similar block)
+4. Edit the HTML file named **people_members.html**. Locate one of the blocks of code mark between the two comments of `<!-- base person info -->...<!-- end base person info -->`, copy it (with the two comments too!), and paste it in the logical place you want the person to be in the web page (usually right after the last similar block).
 
 5. Inside the pasted block, change the image src to your new image and change the **people_[your unique name].md** reference to the one you created in the step 1), but WITHOUT the .md extension!
 
 6. Finished! Well done!.
 
+**The same steps apply if you want to add someone in People > Associates (people_associates.html) and/or move a member to the People > Alumni (people_alumni.html) section.**.
 
 ### Adding/editing publications in Resources > Publications
 
-1. Create (or edit the existing file, if you want to modify) a text file with name **publication_[year]_[next in order].md** in the main folder (you have several examples already there). Although not needed, is better if you stick to the current naming convention of using as **[year]** the numerical year of the publication and as **[next in order]** the following number after the more recent one of that year's publications. So, for example, the fourth publication for the year 2018 is **publication_2018_4.md**
+1. Create (or edit the existing file, if you want to modify) a text file with name **publication_[year]_[next in order].md** in the main folder (you have several examples already there). Although not needed, it is better if you stick to the current naming convention of using as **[year]** the numerical year of the publication and as **[next in order]** the following number after the more recent one of that year's publications. So, for example, the fourth publication for the year 2018 is **publication_2018_4.md**
 
 2. Write the content of the file in markdown notation (you have several examples already there, so a little copy&paste will work wonders!)
 
