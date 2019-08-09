@@ -1,5 +1,5 @@
-[**A comprehensive structural, biochemical and biological profiling of the human NUDIX hydrolase family.**](https://www.ncbi.nlm.nih.gov/pubmed/29142246)
+[**Proteomic analysis of cell cycle progression in asynchronous cultures, including mitotic subphases, using PRIMMUS.**](https://www.ncbi.nlm.nih.gov/pubmed/29052541)
 
-Carreras-Puigvert J1, Zitnik M, Jemth AS, Carter M, Unterlass JE, Hallström B, Loseva O, Karem Z, Calderón-Montaño JM, Lindskog C, Edqvist PH, Matusewski DJ, Ait Blal H, Berntsson RPA, Häggblad M, Martens U, Studham M, Lundgren B, Wählby C, Sonnhammer ELL, Lundberg E, Stenmark P, Zupan B, Helleday T.
+Ly T, Whigham A, Clarke R, Brenes-Murillo AJ, Estes B, Madhessian D, Lundberg E, Wadsworth P, Lamond AI.
 
-*Nat Commun. 2017 Nov 16;8(1):1541. doi: 10.1038/s41467-017-01642-w.* 
+*Elife. 2017 Oct 20;6. pii: e27574. doi: 10.7554/eLife.27574.* 

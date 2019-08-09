@@ -1,5 +1,5 @@
-[**Gene-specific correlation of RNA and protein levels in human cells and tissues.**](https://www.ncbi.nlm.nih.gov/pubmed/27951527)
+[**Voices of biotech.**](https://www.ncbi.nlm.nih.gov/pubmed/26963549)
 
-Edfors F, Danielsson F, Hallström BM, Käll L, Lundberg E, Pontén F, Forsström B, Uhlén M.
+Amit I, Baker D, Barker R, Berger B, Bertozzi C, Bhatia S, Biffi A, Demichelis F, Doudna J, Dowdy SF, Endy D, Helmstaedter M, Junca, June C, Kamb S, Khvorova A, Kim DH, Kim JS, Krishnan Y, Lakadamyali M, Lappalainen T, Lewin S, Liao J, Loman N, Lundberg et at al.
 
-*Mol Syst Biol. 2016 Oct 20;12(10):883. doi: 10.15252/msb.20167144.*
+*Nat Biotechnol. 2016 Mar;34(3):270-5. doi: 10.1038/nbt.3502.*

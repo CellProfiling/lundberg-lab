@@ -1,5 +1,5 @@
-[**A proposal for validation of antibodies.**](https://www.ncbi.nlm.nih.gov/pubmed/27595404)
+[**Towards a functional definition of the mitochondrial human proteome.**](https://www.ncbi.nlm.nih.gov/pubmed/29900096)
 
-Uhlen M, Bandrowski A, Carr S, Edwards A, Ellenberg J, Lundberg E, Rimm DL, Rodriguez H, Hiltke T, Snyder M, Yamamoto T.
+Fasano M, Alberio T, Babu M, Lundberg E, Urbani A.
 
-*Nat Methods. 2016 Oct;13(10):823-7. doi: 10.1038/nmeth.3995.*
+*EuPA Open Proteom. 2016 Jan 7;10:24-27. doi: 10.1016/j.euprot.2016.01.004. eCollection 2016 Mar.*

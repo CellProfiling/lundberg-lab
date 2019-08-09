@@ -1,5 +1,5 @@
-[**RhoA knockout fibroblasts lose tumor-inhibitory capacity in vitro and promote tumor growth in vivo.**](https://www.ncbi.nlm.nih.gov/pubmed/28174275)
+[**Antibody Validation in Bioimaging Applications Based on Endogenous Expression of Tagged Proteins.**](https://www.ncbi.nlm.nih.gov/pubmed/27723985)
 
-Alkasalias T, Alexeyenko A, Hennig K, Danielsson F, Lebbink RJ, Fielden M, Turunen SP, Lehti K, Kashuba V, Madapura HS, Bozoky B, Lundberg E, Balland M, Guvén H, Klein G, Gad AK, Pavlova T.
+Skogs M, Stadler C, Schutten R, Hjelmare M, Gnann C, Björk L, Poser I, Hyman A, Uhlén M, Lundberg E.
 
-*Proc Natl Acad Sci U S A. 2017 Feb 21;114(8):E1413-E1421. doi: 10.1073/pnas.1621161114. Epub 2017 Feb 7.* 
+*J Proteome Res. 2017 Jan 6;16(1):147-155. doi: 10.1021/acs.jproteome.6b00821. Epub 2016 Oct 26.* 

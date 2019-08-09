@@ -1,5 +1,5 @@
-[**Antibody Validation in Bioimaging Applications Based on Endogenous Expression of Tagged Proteins.**](https://www.ncbi.nlm.nih.gov/pubmed/27723985)
+[**Introducing the Affinity Binder Knockdown Initiative⿿A public⿿private partnership for validation of affinity reagents.**](https://www.ncbi.nlm.nih.gov/pubmed/29900101)
 
-Skogs M, Stadler C, Schutten R, Hjelmare M, Gnann C, Björk L, Poser I, Hyman A, Uhlén M, Lundberg E.
+Alm T, Lundberg E, Uhlén M.
 
-*J Proteome Res. 2017 Jan 6;16(1):147-155. doi: 10.1021/acs.jproteome.6b00821. Epub 2016 Oct 26.*
+*EuPA Open Proteom. 2016 Jan 7;10:56-58. doi: 10.1016/j.euprot.2016.01.002. eCollection 2016 Mar.*

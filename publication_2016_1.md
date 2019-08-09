@@ -1,5 +1,5 @@
-[**Introducing the Affinity Binder Knockdown Initiative A public private partnership for validation of affinity reagents.**](https://www.ncbi.nlm.nih.gov/pubmed/29900101)
+[**Systems Proteomics View of the Endogenous Human Claudin Protein Family.**](https://www.ncbi.nlm.nih.gov/pubmed/26680015)
 
-Alm T, Lundberg E, Uhlén M.
+Liu F, Koval M, Ranganathan S, Fanayan S, Hancock WS, Lundberg EK, Beavis RC, Lane L, Duek P, McQuade L, Kelleher NL, Baker MS.
 
-*EuPA Open Proteom. 2016 Jan 7;10:56-58. doi: 10.1016/j.euprot.2016.01.002.*
+*J Proteome Res. 2016 Feb 5;15(2):339-59. doi: 10.1021/acs.jproteome.5b00769. Epub 2016 Jan 12.*

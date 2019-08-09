@@ -1,5 +1,5 @@
-[**A subcellular map of the human proteome.**](https://www.ncbi.nlm.nih.gov/pubmed/28495876)
+[**RhoA knockout fibroblasts lose tumor-inhibitory capacity in vitro and promote tumor growth in vivo.**](https://www.ncbi.nlm.nih.gov/pubmed/28174275)
 
-Thul PJ, Åkesson L, Wiking M, Mahdessian D, Geladaki A, Ait Blal H, Alm T, Asplund A, Björk L, Breckels LM, Bäckström A, Danielsson F, Fagerberg L, Fall J, Gatto L, Gnann C, Hober S, Hjelmare M, Johansson F, Lee S, Lindskog C, Mulder J, Mulvey CM, Nilsson P, Oksvold P, Rockberg J, Schutten R, Schwenk JM, Sivertsson Å, Sjöstedt E, Skogs M, Stadler C, Sullivan DP, Tegel H, Winsnes C, Zhang C, Zwahlen M, Mardinoglu A, Pontén F, von Feilitzen K, Lilley KS, Uhlén M, Lundberg E. 
+Alkasalias T, Alexeyenko A, Hennig K, Danielsson F, Lebbink RJ, Fielden M, Turunen SP, Lehti K, Kashuba V, Madapura HS, Bozoky B, Lundberg E, Balland M, Guvén H, Klein G, Gad AK, Pavlova T.
 
-*Science. 2017 May 26;356(6340). pii: eaal3321. doi: 10.1126/science.aal3321. Epub 2017 May 11.* 
+*Proc Natl Acad Sci U S A. 2017 Feb 21;114(8):E1413-E1421. doi: 10.1073/pnas.1621161114. Epub 2017 Feb 7.* 
