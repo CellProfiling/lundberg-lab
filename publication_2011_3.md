@@ -1,5 +1,5 @@
-[**Mapping the subcellular protein distribution in three human cell lines.**](https://www.ncbi.nlm.nih.gov/pubmed/21675716)
+[**Novel asymmetrically localizing components of human centrosomes identified by complementary proteomics methods.**](https://www.ncbi.nlm.nih.gov/pubmed/21399614)
 
-Fagerberg L, Stadler C, Skogs M, Hjelmare M, Jonasson K, Wiking M, Abergh A, Uhlén M, Lundberg E.
+Jakobsen L, Vanselow K, Skogs M, Toyoda Y, Lundberg E, Poser I, Falkenby LG, Bennetzen M, Westendorf J, Nigg EA, Uhlen M, Hyman AA, Andersen JS.
 
-*J Proteome Res. 2011 Aug 5;10(8):3766-77. doi: 10.1021/pr200379a. Epub 2011 Jun 29.*
+*EMBO J. 2011 Apr 20;30(8):1520-35. doi: 10.1038/emboj.2011.63. Epub 2011 Mar 11.*

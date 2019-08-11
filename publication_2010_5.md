@@ -1,5 +1,5 @@
-[**Analysis of transcript and protein overlap in a human osteosarcoma cell line.**](https://www.ncbi.nlm.nih.gov/pubmed/21126332)
+[**Towards a knowledge-based Human Protein Atlas.**](https://www.ncbi.nlm.nih.gov/pubmed/21139605)
 
-Klevebring D, Fagerberg L, Lundberg E, Emanuelsson O, Uhlén M, Lundeberg J.
+Uhlen M, Oksvold P, Fagerberg L, Lundberg E, Jonasson K, Forsberg M, Zwahlen M, Kampf C, Wester K, Hober S, Wernerus H, Björling L, Ponten F.
 
-*BMC Genomics. 2010 Dec 2;11:684. doi: 10.1186/1471-2164-11-684.*
+*Nat Biotechnol. 2010 Dec;28(12):1248-50. doi: 10.1038/nbt1210-1248.*

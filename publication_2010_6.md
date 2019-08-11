@@ -1,5 +1,5 @@
-[**Towards a knowledge-based Human Protein Atlas.**](https://www.ncbi.nlm.nih.gov/pubmed/21139605)
+[**Defining the transcriptome and proteome in three functionally different human cell lines.**](https://www.ncbi.nlm.nih.gov/pubmed/21179022)
 
-Uhlen M, Oksvold P, Fagerberg L, Lundberg E, Jonasson K, Forsberg M, Zwahlen M, Kampf C, Wester K, Hober S, Wernerus H, Björling L, Ponten F.
+Lundberg E, Fagerberg L, Klevebring D, Matic I, Geiger T, Cox J, Algenäs C, Lundeberg J, Mann M, Uhlen M.
 
-*Nat Biotechnol. 2010 Dec;28(12):1248-50. doi: 10.1038/nbt1210-1248.*
+*Mol Syst Biol. 2010 Dec 21;6:450. doi: 10.1038/msb.2010.106.*

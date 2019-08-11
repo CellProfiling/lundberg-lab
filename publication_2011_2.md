@@ -1,5 +1,5 @@
-[**Novel asymmetrically localizing components of human centrosomes identified by complementary proteomics methods.**](https://www.ncbi.nlm.nih.gov/pubmed/21399614)
+[**Subcellular distribution and expression of prenylated Rab acceptor 1 domain family, member 2 (PRAF2) in malignant glioma: Influence on cell survival and migration.**](https://www.ncbi.nlm.nih.gov/pubmed/20412121)
 
-Jakobsen L, Vanselow K, Skogs M, Toyoda Y, Lundberg E, Poser I, Falkenby LG, Bennetzen M, Westendorf J, Nigg EA, Uhlen M, Hyman AA, Andersen JS.
+Borsics T, Lundberg E, Geerts D, Koomoa DL, Koster J, Wester K, Bachmann AS.
 
-*EMBO J. 2011 Apr 20;30(8):1520-35. doi: 10.1038/emboj.2011.63. Epub 2011 Mar 11.*
+*Cancer Sci. 2010 Jul;101(7):1624-31. doi: 10.1111/j.1349-7006.2010.01570.x. Epub 2010 Mar 19.*

@@ -1,5 +1,5 @@
-[**Generation of monospecific antibodies based on affinity capture of polyclonal antibodies.**](https://www.ncbi.nlm.nih.gov/pubmed/21898641)
+[**SATB2 in combination with cytokeratin 20 identifies over 95% of all colorectal carcinomas.**](https://www.ncbi.nlm.nih.gov/pubmed/21677534)
 
-Hjelm B, Forsström B, Igel U, Johannesson H, Stadler C, Lundberg E, Ponten F, Sjöberg A, Rockberg J, Schwenk JM, Nilsson P, Johansson C, Uhlén M.
+Magnusson K, de Wit M, Brennan DJ, Johnson LB, McGee SF, Lundberg E, Naicker K, Klinger R, Kampf C, Asplund A, Wester K, Gry M, Bjartell A, Gallagher WM, Rexhepaj E, Kilpinen S, Kallioniemi OP, Belt E, Goos J, Meijer G, Birgisson H, Glimelius B, Borrebaeck CA, Navani S, Uhlén M, O'Connor DP, Jirström K, Pontén F.
 
-*Protein Sci. 2011 Nov;20(11):1824-35. doi: 10.1002/pro.716. Epub 2011 Oct 12.*
+*Am J Surg Pathol. 2011 Jul;35(7):937-48. doi: 10.1097/PAS.0b013e31821c3dae.*

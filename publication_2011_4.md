@@ -1,5 +1,5 @@
-[**SATB2 in combination with cytokeratin 20 identifies over 95% of all colorectal carcinomas.**](https://www.ncbi.nlm.nih.gov/pubmed/21677534)
+[**Mapping the subcellular protein distribution in three human cell lines.**](https://www.ncbi.nlm.nih.gov/pubmed/21675716)
 
-Magnusson K, de Wit M, Brennan DJ, Johnson LB, McGee SF, Lundberg E, Naicker K, Klinger R, Kampf C, Asplund A, Wester K, Gry M, Bjartell A, Gallagher WM, Rexhepaj E, Kilpinen S, Kallioniemi OP, Belt E, Goos J, Meijer G, Birgisson H, Glimelius B, Borrebaeck CA, Navani S, Uhlén M, O'Connor DP, Jirström K, Pontén F.
+Fagerberg L, Stadler C, Skogs M, Hjelmare M, Jonasson K, Wiking M, Abergh A, Uhlén M, Lundberg E.
 
-*Am J Surg Pathol. 2011 Jul;35(7):937-48. doi: 10.1097/PAS.0b013e31821c3dae.*
+*J Proteome Res. 2011 Aug 5;10(8):3766-77. doi: 10.1021/pr200379a. Epub 2011 Jun 29.*
