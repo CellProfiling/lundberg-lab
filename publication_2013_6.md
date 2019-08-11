@@ -1,4 +1,4 @@
-[**Proc Natl Acad Sci U S A. 2013 Apr 23;110(17):6853-8. doi: 10.1073/pnas.1216436110. Epub 2013 Apr 8.**](https://www.ncbi.nlm.nih.gov/pubmed/23569271)
+[**Centrosome isolation and analysis by mass spectrometry-based proteomics.**](https://www.ncbi.nlm.nih.gov/pubmed/23522479)
 
 Jakobsen L, Schrøder JM, Larsen KM, Lundberg E, Andersen JS.
 
