@@ -1,5 +1,5 @@
-### Inna Sitnik
-inna.sitnik@scilifelab.se 
+### Jayasankar Mohanakrishnan
+jayasankar.mohanakrishnan@scilifelab.se 
 
 
 
