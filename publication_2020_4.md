@@ -1,8 +1,8 @@
-[**A high-stringency blueprint of the human proteome.**](https://pubmed.ncbi.nlm.nih.gov/33067450/)
+[**LifeTime and improving European healthcare through cell-based interceptive medicine.**](https://pubmed.ncbi.nlm.nih.gov/32894860/)
 
-Adhikari S, Nice EC, Deutsch EW, Lane L, Omenn GS, Pennington SR, Paik IK, Overall CM, Corrales FJ, Cristea IM, Van Eyk JE, Uhlén M, Lindskog C, Chan DW, Bairoch A, Waddington JC, Justice JL, LaBaer J, Rodriguez H, He F, Kostrzewa M, Ping P, Gundry RL, Stewart P, Srivastava S, Srivastava S, Nogueira FCS, Domont GB, Vandenbrouck Y, Lam MPY, Wennersten S, Vizcaino JA, Wilkins M, Schwenk JM, Lundberg E, Bandeira N, Marko-Varga G, Weintraub ST, Pineau Ch, Kusebauch U, Moritz RL, Ahn SB, Palmblad M, Snyder MP, Aebersold R, Baker MS.
+Rajewsky N, Almouzni G, Gorski SA, Aerts  S, Amit I, Bertero MG, Bock Ch, Bredenoord AL, Cavalli G, Chiocca S, Clevers H, Strooper BD, Eggert  A, Ellenberg J, Fernández XM, Figlerowicz M, Gasser SM, Hubner N, Kjems J, Knoblich JA, Krabbe G, Lichter P, Linnarsson S, Marine JC, Marioni JC, Marti-Renom MA, Netea MG, Nickel D, Nollmann M, Novak HR, Parkinson H, Piccolo S, Pinheiro I, Pombo A, Popp C, Reik W, Roman-Roman S, Rosenstiel P, Schultze JL, Stegle O, Tanay A, Testa G, Thanos D, Theis FJ, Torres-Padilla ME, Valencia A, Vallot C, Oudenaarden A, Vidal M, Voet T. et al.  
 
-*Nat Commun. 2020 Oct 16;11(1):5301.doi: 10.1038/s41467-020-19045-9.*
+*Nature. 2020 Nov;587(7834):377-386.doi: 10.1038/s41586-020-2715-9. Epub 2020 Sep 7.*
 
 
 
